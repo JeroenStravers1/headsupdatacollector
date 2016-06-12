@@ -2,8 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35d3eb40-c833-440c-8b43-027458527961" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/datacollector/1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/datacollector/2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/datacollector/Heads_Up_data/1464519480.24Heads_Up_data_collection_snapshot38173.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/datacollector/Heads_Up_data/1464519511.58Heads_Up_data_collection_snapshot50077.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/datacollector/Heads_Up_data/1464519759.14Heads_Up_data_collection_snapshot32567.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/datacollector/Heads_Up_data/1464519851.09Heads_Up_data_collection_snapshot43859.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/datacollector/Heads_Up_data/1464519877.05Heads_Up_data_collection_snapshot83880.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/datacollector/Heads_Up_data/1464520045.43Heads_Up_data_collection_snapshot80838.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/datacollector/Heads_Up_data/1464520059.33Heads_Up_data_collection_snapshot53581.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/datacollector/Heads_Up_data/1464520067.69Heads_Up_data_collection_snapshot93774.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/datacollector/Heads_Up_data/1464520121.94Heads_Up_data_collection_snapshot12022.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/datacollector/Heads_Up_data/1464520161.6Heads_Up_data_collection_snapshot88292.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/datacollector/Heads_Up_data/1464520181.32Heads_Up_data_collection_snapshot73758.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/datacollector/Heads_Up_data/1464520297.08Heads_Up_data_collection_snapshot88300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/datacollector/Heads_Up_data/1464520305.51Heads_Up_data_collection_snapshot20329.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/datacollector/Heads_Up_data/1464520609.31Heads_Up_data_collection_snapshot15684.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/datacollector/Heads_Up_data/1464520626.41Heads_Up_data_collection_snapshot17545.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/datacollector/Heads_Up_data/1464520635.8Heads_Up_data_collection_snapshot74818.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/datacollector/Heads_Up_data/1464520667.99Heads_Up_data_collection_snapshot77225.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/datacollector/Heads_Up_data/1464520703.89Heads_Up_data_collection_snapshot91317.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/datacollector/Heads_Up_data/1464520865.55Heads_Up_data_collection_snapshot52615.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/datacollector/Heads_Up_data/1464520980.97Heads_Up_data_collection_snapshot66135.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/datacollector/x.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/datacollector/DataCollector.py" afterPath="$PROJECT_DIR$/datacollector/DataCollector.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/datacollector/setup.py" afterPath="$PROJECT_DIR$/datacollector/setup.py" />
     </list>
     <ignored path="headsupdatacollector.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,8 +51,8 @@
       <file leaf-file-name="DataCollector.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/datacollector/DataCollector.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="72" column="39" selection-start-line="72" selection-start-column="39" selection-end-line="72" selection-end-column="39" />
+            <state relative-caret-position="1292">
+              <caret line="76" column="12" selection-start-line="76" selection-start-column="12" selection-end-line="77" selection-end-column="57" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -39,8 +63,8 @@
       <file leaf-file-name="setup.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/datacollector/setup.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+            <state relative-caret-position="272">
+              <caret line="16" column="66" selection-start-line="16" selection-start-column="66" selection-end-line="16" selection-end-column="66" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -67,6 +91,7 @@
         <option value="D:/schoolshit/Python27/Lib/site-packages/pydrive/auth.py" />
         <option value="D:/schoolshit/Python27/Lib/site-packages/pydrive/files.py" />
         <option value="$PROJECT_DIR$/datacollector/setup.py" />
+        <option value="$PROJECT_DIR$/datacollector/arff_generator.py" />
         <option value="$PROJECT_DIR$/datacollector/DataCollector.py" />
       </list>
     </option>
@@ -100,6 +125,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -125,7 +151,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -338,23 +363,23 @@
     <frame x="0" y="0" width="960" height="1040" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21398304" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21366595" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32819384" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3340494" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32819384" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3340494" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32929516" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -373,6 +398,107 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/datacollector/hst.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="2" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datacollector/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="16" column="66" selection-start-line="16" selection-start-column="66" selection-end-line="16" selection-end-column="66" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datacollector/2">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datacollector/DataCollector.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datacollector/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="16" column="66" selection-start-line="16" selection-start-column="66" selection-end-line="16" selection-end-column="66" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datacollector/2">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datacollector/DataCollector.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datacollector/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="16" column="66" selection-start-line="16" selection-start-column="66" selection-end-line="16" selection-end-column="66" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datacollector/2">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datacollector/DataCollector.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datacollector/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/datacollector/DataCollector.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -383,14 +509,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/datacollector/mycreds.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="7" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="810" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/datacollector/mycreds.txt" />
     <entry file="file://$PROJECT_DIR$/datacollector/setup.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -411,14 +530,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/datacollector/mycreds.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="7" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="810" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/datacollector/mycreds.txt" />
     <entry file="file://$PROJECT_DIR$/datacollector/setup.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -453,13 +565,7 @@
     <entry file="file://$PROJECT_DIR$/datacollector/Snapshot3.jpg" />
     <entry file="file://$PROJECT_DIR$/datacollector/Snapshot4.jpg" />
     <entry file="file://$PROJECT_DIR$/datacollector/Snapshot5.jpg" />
-    <entry file="file://$PROJECT_DIR$/datacollector/client_secrets.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="28" selection-start-line="0" selection-start-column="28" selection-end-line="0" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/datacollector/client_secrets.json" />
     <entry file="file://$PROJECT_DIR$/datacollector/gdrive_uploader.py" />
     <entry file="file://$USER_HOME$/Desktop/urllib3-1.15.1/setup.py" />
     <entry file="file://D:/schoolshit/Python27/Lib/site-packages/pydrive/auth.py">
@@ -496,18 +602,28 @@
     <entry file="file://$PROJECT_DIR$/datacollector/Heads_Up_data_collection_snapshot01461763576.4856491.jpg" />
     <entry file="file://$PROJECT_DIR$/datacollector/Heads_Up_data_collection_snapshot91461764626.0284736.jpg" />
     <entry file="file://$PROJECT_DIR$/datacollector/DataCollector.spec" />
-    <entry file="file://$PROJECT_DIR$/datacollector/mycreds.txt">
+    <entry file="file://$PROJECT_DIR$/datacollector/mycreds.txt" />
+    <entry file="file://$PROJECT_DIR$/datacollector/arff_generator.py" />
+    <entry file="file://$PROJECT_DIR$/datacollector/2">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="7" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="810" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datacollector/hst.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="2" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/datacollector/setup.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+        <state relative-caret-position="272">
+          <caret line="16" column="66" selection-start-line="16" selection-start-column="66" selection-end-line="16" selection-end-column="66" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
@@ -516,8 +632,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/datacollector/DataCollector.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="72" column="39" selection-start-line="72" selection-start-column="39" selection-end-line="72" selection-end-column="39" />
+        <state relative-caret-position="1292">
+          <caret line="76" column="12" selection-start-line="76" selection-start-column="12" selection-end-line="77" selection-end-column="57" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
